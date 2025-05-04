@@ -62,7 +62,6 @@ Open your browser and go to `http://localhost:8000` to access the app.
 
 ## Usage
 
-- Register a new account or login if you already have one.
 - Add new tasks by entering the task description.
 - Edit or delete existing tasks by clicking the action buttons.
 - Mark tasks as complete by toggling the status checkbox.
